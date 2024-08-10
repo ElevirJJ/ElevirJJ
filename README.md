@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Desenvolvedor web em formação.<br>No momento estou me graduando no curso de Sistemas para Internet, e tenho foco principais no desenvolvimento web.</p>
+<h4 align="left">Desenvolvedor web em Formação</h4>
+
+###
+
+<p align="left">Opa, Tudo bem com vocês? Me chamo Elevir e sou estudante do curso de Sistemas para Internet, atualmente estou estudando a parte do Front-end na qual e tenho como objetivo e foco principal no <br>desenvolvimento web.</p>
 
 ###
 
@@ -42,7 +46,7 @@
   <a href="https://www.linkedin.com/in/elevir-pereira-anezio-junior-24516b221/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="elevir.junior7@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfpKbPrHnmzFwNdDcGHVcfZkcsWtjlNqWWNRkVFsLJWFHxksgnsFwRPlsWTcRjmzrZznPL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/elevir_junior7/" target="_blank">
