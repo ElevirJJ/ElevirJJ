@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg)" height="40" alt="styled components logo"  />
 </div>
 
 ###
