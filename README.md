@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Opa, Tudo bem com vocês? Me chamo Elevir e sou estudante do curso de Sistemas para Internet, atualmente estou estudando a parte do Front-end na qual e tenho como objetivo e foco principal no <br>desenvolvimento web.</p>
+<p align="left">Opa, Tudo bem com vocês? Me chamo Elevir e sou desenvolvedor backend com grande interesse por tecnologia e aprendizado contínuo. Gosto de criar APIs organizadas, aplicar boas práticas de desenvolvimento e entender o funcionamento das aplicações de ponta a ponta. Estou sempre buscando evoluir tecnicamente e me preparar para novos desafios na área de desenvolvimento de software. .</p>
 
 ###
 
